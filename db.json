@@ -1,0 +1,273 @@
+{
+  "about": {
+    "title": "About me",
+    "description": "lorem ipsum dolor sit amet",
+    "info": [
+      {
+        "fieldName": "Name",
+        "fieldValue": "Devaeterne"
+      },
+      {
+        "fieldName": "Phone",
+        "fieldValue": "(+90) 541 734 97 66"
+      },
+      {
+        "fieldName": "Experience",
+        "fieldValue": "7+ Years"
+      },
+      {
+        "fieldName": "Freelance",
+        "fieldValue": "Available"
+      },
+      {
+        "fieldName": "Languages",
+        "fieldValue": "English, Turkish"
+      },
+      {
+        "fieldName": "Email",
+        "fieldValue": "info@safaksariyildiz.com"
+      }
+    ]
+  },
+  "experience": {
+    "icon": "/assets/resume/badge.svg",
+    "title": "My Experience",
+    "description": "Açıklama alanı",
+    "items": [
+      {
+        "company": "Citycoco E-Bike",
+        "position": "Full Stack Developer",
+        "duration": "2023 - Present"
+      },
+      {
+        "company": "KNB Lojistik",
+        "position": "Full Stack Developer",
+        "duration": "2018 - 2023"
+      },
+      {
+        "company": "Atom Bilgisayar",
+        "position": "Full Stack Developer",
+        "duration": "2015 - 2018"
+      }
+    ]
+  },
+  "education": {
+    "icon": "/assets/resume/cap.svg",
+    "title": "My Education",
+    "description": "lorem ipsum dolor sit amet",
+    "items": [
+      {
+        "institution": "DataCamp",
+        "position": "Data Scientist",
+        "duration": "2024"
+      },
+      {
+        "institution": "Online Course",
+        "position": "Full Stack Web Development Bootcamp",
+        "duration": "2023"
+      },
+      {
+        "institution": "Online Course",
+        "position": "Frontend ReactJs Development",
+        "duration": "2022"
+      }
+    ]
+  },
+  "skills": {
+    "title": "My Skills",
+    "description": "Lorem ipsum dolor sit amet",
+    "skillList": [
+      {
+        "icon": "FaHtml5",
+        "name": "html 5"
+      },
+      {
+        "icon": "FaCss3",
+        "name": "CSS 3"
+      },
+      {
+        "icon": "FaJs",
+        "name": "Javascript"
+      },
+      {
+        "icon": "FaFigma",
+        "name": "Figma"
+      },
+      {
+        "icon": "FaNodeJs",
+        "name": "next.js"
+      },
+      {
+        "icon": "FaReact",
+        "name": "React.js"
+      },
+      {
+        "icon": "SiTailwindcss",
+        "name": "tailwind.css"
+      },
+      {
+        "icon": "SiNextdotjs",
+        "name": "node.js"
+      }
+    ]
+  },
+  "projects" : [
+    {
+      "num" : "01",
+      "category" : "frontend",
+      "title" : "project",
+      "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. t natus doloribus quae. Neque, culpa. ",
+      
+      "stack" : [
+        {
+          "name" : "Html5"
+        },
+        {
+          "name" : "CSS3"
+        },
+        {
+          "name" : "NextJs"
+        },
+        {
+          "name" : "ReactJs"
+        },
+        {
+          "name" : "Tailwind"
+        }
+      ],
+      "image" : "/assets/work/thumb1.png",
+      "live" : "asd",
+      "github" : ""
+    },
+    {
+      "num" : "02",
+      "category" : "frontend",
+      "title" : "project",
+      "description" : " desc ",
+      "stack" : [
+        {
+          "name" : "Html5"
+        },
+        {
+          "name" : "CSS3"
+        },
+        {
+          "name" : "NextJs"
+        },
+        {
+          "name" : "ReactJs"
+        },
+        {
+          "name" : "Tailwind"
+        }
+      ],
+      "image" : "/assets/work/thumb1.png",
+      "live" : "asd",
+      "github" : "asd"
+    },
+    {
+      "num" : "03",
+      "category" : "frontend",
+      "title" : "project",
+      "description" : " desc ",
+      "stack" : [
+        {
+          "name" : "Html5"
+        },
+        {
+          "name" : "CSS3"
+        },
+        {
+          "name" : "NextJs"
+        },
+        {
+          "name" : "ReactJs"
+        },
+        {
+          "name" : "Tailwind"
+        }
+      ],
+      "image" : "/assets/work/thumb1.png",
+      "live" : "asd",
+      "github" : "asd"
+    },
+    {
+      "num" : "04",
+      "category" : "frontend",
+      "title" : "project",
+      "description" : " desc ",
+      "stack" : [
+        {
+          "name" : "Html5"
+        },
+        {
+          "name" : "CSS3"
+        },
+        {
+          "name" : "NextJs"
+        },
+        {
+          "name" : "ReactJs"
+        },
+        {
+          "name" : "Tailwind"
+        }
+      ],
+      "image" : "/assets/work/thumb1.png",
+      "live" : "asd",
+      "github" : "asd"
+    },
+    {
+      "num" : "05",
+      "category" : "frontend",
+      "title" : "project",
+      "description" : " desc ",
+      "stack" : [
+        {
+          "name" : "Html5"
+        },
+        {
+          "name" : "CSS3"
+        },
+        {
+          "name" : "NextJs"
+        },
+        {
+          "name" : "ReactJs"
+        },
+        {
+          "name" : "Tailwind"
+        }
+      ],
+      "image" : "/assets/work/thumb3.png",
+      "live" : "asd",
+      "github" : "asd"
+    },
+    {
+      "num" : "06",
+      "category" : "frontend",
+      "title" : "project",
+      "description" : " desc ",
+      "stack" : [
+        {
+          "name" : "Html5"
+        },
+        {
+          "name" : "CSS3"
+        },
+        {
+          "name" : "NextJs"
+        },
+        {
+          "name" : "ReactJs"
+        },
+        {
+          "name" : "Tailwind"
+        }
+      ],
+      "image" : "/assets/work/thumb2.png",
+      "live" : "asd",
+      "github" : "asd"
+    }
+  ]
+}
