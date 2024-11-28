@@ -13,7 +13,7 @@ const Home = () => {
             <span className="text-xl">Software Developer</span>
             <h1 className="h1">
               {" "}
-              Hello I'm <br />
+              Hello Im <br />
               <span className="text-accent">DevAeterne</span>
             </h1>
             <p>
