@@ -54,7 +54,7 @@
   "education": {
     "icon": "/assets/resume/cap.svg",
     "title": "My Education",
-    "description": "lorem ipsum dolor sit amet",
+    "description": "I have strengthened my expertise in software and technology through various certifications. I hold certifications in Data Science, React and Next.js Development, API Development, .NET Core, and MSSQL. These certifications have provided me with in-depth knowledge of current technologies, enabling me to translate theoretical knowledge into practical, industry-relevant solutions. My passion for continuous learning and growth has helped me become more proficient in the tech field.",
     "items": [
       {
         "institution": "DataCamp",
