@@ -1,7 +1,7 @@
 {
   "about": {
     "title": "About me",
-    "description": "lorem ipsum dolor sit amet",
+    "description": "Hello! I'm Devaeterne, an experienced Full Stack Developer with expertise in Next.js, React, .NET Core, MVC, MSSQL, and API development. I provide scalable, high-performance solutions with seamless integration of front-end and back-end technologies. With extensive experience in building e-commerce platforms, corporate websites, mobile-friendly applications, and custom software solutions, I can handle a wide range of projects. Additionally, I’m skilled in CMS platforms such as WordPress, OpenCart, Shopify, and Wix, ensuring efficient management of various types of projects. I use the best technologies to create secure, fast, and user-friendly digital experiences, both on the server side and the client side. I’m here to deliver tailored solutions and represent your business in the digital world in the best possible way.",
     "info": [
       {
         "fieldName": "Name",
@@ -296,8 +296,8 @@
     {
       "id": 4,
       "num": "04",
-      "title": "Web Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio eos eaque saepe iusto mollitia dicta repellat corrupti in tempora odio at modi, dolor fugiat omnis, provident numquam sit! Consequatur, similique",
+      "title": "CMS-based Development",
+      "description": "I specialize in creating and customizing websites using WordPress, OpenCart, Shopify, and Wix. Whether you need an e-commerce store, a corporate website, or a personal blog, I can deliver solutions tailored to your needs. From design to functionality, I ensure your site is modern, responsive, and fully optimized. Let’s bring your vision to life!",
       "href": ""
     }
   ],
