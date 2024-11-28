@@ -1,5 +1,0 @@
-{
-  "scripts": {
-    "vercel-install": "npm install -g vercel"
-  }
-}
