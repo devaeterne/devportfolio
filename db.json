@@ -32,12 +32,12 @@
   "experience": {
     "icon": "/assets/resume/badge.svg",
     "title": "My Experience",
-    "description": "Açıklama alanı",
+    "description": "Hello! I`m Devaeterne, a Full Stack Developer with 8 years of experience in the software development industry. Since starting my career, I've gained extensive knowledge and hands-on experience, contributing to numerous successful projects. For the past 7 years, I’ve been working as a Full Stack Developer at a company, where I’ve combined front-end and back-end technologies to deliver scalable, user-friendly solutions. I have worked extensively with modern technologies such as React, Next.js, .NET Core, and MVC, completing a wide range of projects. Additionally, I specialize in MSSQL database management and API development. With my experience in CMS platforms like WordPress, Shopify, OpenCart, and Wix, I offer comprehensive solutions to my clients. My technical expertise and project management skills make me a reliable partner for any software project. I’m here to create innovative and efficient digital experiences.",
     "items": [
       {
         "company": "Citycoco E-Bike",
         "position": "Full Stack Developer",
-        "duration": "2023 - Present"
+        "duration": "2023 - 2024"
       },
       {
         "company": "KNB Lojistik",
@@ -47,7 +47,7 @@
       {
         "company": "Atom Bilgisayar",
         "position": "Full Stack Developer",
-        "duration": "2015 - 2018"
+        "duration": "2016 - 2018"
       }
     ]
   },
