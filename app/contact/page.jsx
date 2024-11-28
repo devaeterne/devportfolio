@@ -85,11 +85,7 @@ const Contact = () => {
         <div className="flex flex-col xl:flex-row gap-[30px]">
           <div className="xl:h-[54%] order-2 xl:order-none">
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl" onSubmit={handleSubmit}>
-<<<<<<< HEAD
-              <h3>Let's Work Together</h3>
-=======
-              <h3>Lets Work Together</h3>
->>>>>>> bef49d5 (json)
+              <h3>Let`s Work Together</h3>
               <p className="text-white/60">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ea quasi fugit perspiciatis rem neque, dolores!
               </p>
