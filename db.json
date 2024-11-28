@@ -75,7 +75,7 @@
   },
   "skills": {
     "title": "My Skills",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "I’m proficient in both front-end and back-end development. I have experience in server management and security, as well as working with Docker, Plesk, and cPanel. I’m also skilled in using CMS platforms like WordPress, Shopify, and Wix.",
     "skillList": [
       {
         "icon": "FaHtml5",
@@ -114,28 +114,28 @@
   "projects" : [
     {
       "num" : "01",
-      "category" : "frontend",
-      "title" : "project",
-      "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. t natus doloribus quae. Neque, culpa. ",
+      "category" : "Web Development",
+      "title" : "Citycoco",
+      "description" : "Developed a web application for the electric bike brand Citycoco using MSSQL, .NET Core, and MVC. The platform offers a seamless experience for customers to explore and purchase electric bikes, with efficient data management and user-friendly design.",
       
       "stack" : [
         {
-          "name" : "Html5"
+          "name" : "Asp .Net Core"
         },
         {
-          "name" : "CSS3"
+          "name" : "HTML"
         },
         {
-          "name" : "NextJs"
+          "name" : "MSSQL"
         },
         {
-          "name" : "ReactJs"
+          "name" : "API Technologies"
         },
         {
-          "name" : "Tailwind"
+          "name" : "Boostrap"
         }
       ],
-      "image" : "/assets/work/thumb1.png",
+      "image" : "/assets/work/citycoco.png",
       "live" : "asd",
       "github" : ""
     },
